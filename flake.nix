@@ -21,7 +21,7 @@
           libgcc
           open-watcom-v2
           gnumake
-          mtools       # for mcopy, mkfs.fat
+          mtools
           qemu
           bochs
           bash
